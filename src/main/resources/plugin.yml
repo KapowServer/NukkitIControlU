@@ -1,0 +1,10 @@
+name: iControlU
+main: me.allink.icontrolu.Main
+description: Plugin that allows players to control other players.
+version: "master"
+api: ["1.0.13"]
+
+commands:
+  icu:
+    description: Control another player's movements, inventory and chat
+    permission: icu.command
